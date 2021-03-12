@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Vi-obb!
+- 👋 Hi, I’m Vincent Obbeng.
 - 👀 I’m interested in web development and artificial intelligence.
 - 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate on front end projects.
+- 💞️ I’m looking to collaborate with others on web development projects.
 - 📫 Email me at obbenvincent@gmail.com
 
 <!---
