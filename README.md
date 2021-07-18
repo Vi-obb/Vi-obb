@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Vincent Obbeng.
-- 👀 I’m interested in web development and artificial intelligence.
-- 🌱 I’m currently learning Javascript.
-- 💞️ I’m looking to collaborate with others on web development projects.
+- 👋 Hi, I’m Vincent Obbeng. An undergrad Math student.
+- 👀 I have  intermediate skills in HTML and CSS.
+- 🌱 I’m currently learning Front End Javascript.
 - 📫 Email me at obbengvincent@gmail.com
 
 <!---
