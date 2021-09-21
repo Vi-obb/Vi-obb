@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vincent Obbeng. An undergrad Math student.
-- 👀 I have  intermediate skills in HTML and CSS.
-- 🌱 I’m currently learning Front End Javascript.
-- 📫 Email me at obbengvincent@gmail.com
+- 👀 I love web dev, math, sports(especially footbal) and music.
+- 🌱 Currently learning front-end, aspiring to be a full-stack dev.
+- 📫 Email me at vincentobbeng7@gmail.com
 
 <!---
 Vi-obb/Vi-obb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
