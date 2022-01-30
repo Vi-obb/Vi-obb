@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Web developer and UI/UX designer.
+- 🤔 &nbsp; Web developer and UI designer.
 - 🎓 &nbsp; Studying Mathematics at Kwame Nkrumah University of Science and Tech, Ghana.
 - 💼 &nbsp; Currently working as a freelancer but open to remote jobs.
 - 🌱 &nbsp; Exploring web3, blockchain tech and data science.
