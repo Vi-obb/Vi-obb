@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Web developer and UI designer.
 - 🎓 &nbsp; Studying Mathematics at Kwame Nkrumah University of Science and Tech, Ghana.
 - 💼 &nbsp; Currently working as a freelancer but open to remote jobs.
-- 🌱 &nbsp; Exploring web3, blockchain tech and data science.
+- 🌱 &nbsp; Exploring web3, AI and data science.
 - ✍️ &nbsp; I share what I learn through my articles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
